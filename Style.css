@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Roboto:ital@1&family=Source+Sans+3:ital,wght@1,200&display=swap');
+
+
+#principal {
+    background-color: #D5F2ED;
+    margin: 40px;
+    padding: 10px;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: #000 3px 3px 2px;
+    
+    
+}
+
+body {
+    background-color: #4EBFB4;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: #2C3F59;
+    font-family: roboto;
+}
+
+h2{
+    color: #2C3F59 ;
+}
+
+
+p{
+    font-family: 'Kaushan Script';
+    color: black;
+}
